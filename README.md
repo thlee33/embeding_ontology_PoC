@@ -6,6 +6,8 @@
 
 ![데모 화면](https://github.com/thlee33/embeding_ontology_PoC/blob/main/demo.png)
 
+[블로그](https://unique-payment-110.notion.site/37a80db13da580c79595e9ae08824910 )
+
 ## 1. PoC 목적
 
 공간정보 AI를 실제 서비스 화면에서 설명하려면 단순한 2D 다이어그램만으로는 한계가 있습니다. 이 프로토타입은 다음 질문에 답하기 위해 제작되었습니다.
