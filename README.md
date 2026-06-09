@@ -4,7 +4,7 @@
 
 단독 주택을 예시로, **격자 방식의 공간 임베딩 모델**이 해당 위치와 객체의 특성을 설명하고, **계층적 지식 그래프**가 주변 공간과 객체 간의 위계·인접·유사 관계를 설명할 수 있음을 시각적으로 보여주는 웹 프로토타입입니다.
 
-[데모 화면](https://github.com/thlee33/embeding_ontology_PoC/blob/main/demo.png)
+![데모 화면](https://github.com/thlee33/embeding_ontology_PoC/blob/main/demo.png)
 
 ## 1. PoC 목적
 
